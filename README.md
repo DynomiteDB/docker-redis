@@ -70,4 +70,3 @@ Create the `redis` image.
 ```bash
 docker build -t dynomitedb/redis .
 ```
-
